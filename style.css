@@ -1,0 +1,32 @@
+.main-color{
+    background-color: #440351;  
+}
+
+.myboby-text-color{
+  color: #aaa;
+}
+ 
+.my-bg-color {
+    background-color: #eee; 
+}
+
+.main-text-color {
+  color: #440351; 
+}
+
+.my-border-color {
+    border: 1px solid #440351; }
+
+#myheader{
+    background:url("blogger-336371_1920.jpg") no-repeat center top fixed;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;  
+}
+
+#myheader .myoverlay{
+    background-color:rgba(54, 15, 66, 0.6);
+    width: 100%;
+    min-height: 700px; 
+}
+
